@@ -56,7 +56,7 @@ from PlatformHaveWorkedWith. Show salary delta."
 ## Data source
 
 Stack Overflow Annual Developer Survey 2024  
-https://survey.stackoverflow.co/2024  
+https://www.kaggle.com/datasets/berkayalan/stack-overflow-annual-developer-survey-2024?resource=download
 65,437 respondents — free and open
 
 ## Author
